@@ -14,3 +14,4 @@
 - git checkout -> cria uma nova branch e muda para ela.
 - git pull -> atualiza o repositório local de acordo com as mudanças do remoto.
 - git merge -> mescla as branches, dependendo de qual você deseja.
+ 
