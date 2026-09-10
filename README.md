@@ -14,5 +14,5 @@
 - git pull -> atualiza o repositório local de acordo com as mudanças do remoto.
 - git merge -> mescla as branches, dependendo de qual você deseja.
 - git pull request -> Solicitação para alterações em uma branch seja passada para o ramo main.
-
+teste
 #### Última atulização: 10 de setembro de 2026
