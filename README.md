@@ -1,5 +1,4 @@
 # Curso sobre Git e GitHub oferecido pela plataforma de estudo Codedéx
-
 ## Conteúdos:
 - git init -> inicializa um projeto acompanha pelo git.
 - git remote -> gerencia as conexões com o repositório remoto.
@@ -14,3 +13,6 @@
 - git checkout -> cria uma nova branch e muda para ela.
 - git pull -> atualiza o repositório local de acordo com as mudanças do remoto.
 - git merge -> mescla as branches, dependendo de qual você deseja.
+- git pull request -> Solicitação para alterações em uma branch seja passada para o ramo main.
+
+#### Última atulização: 10 de setembro de 2026
